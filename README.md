@@ -1,4 +1,4 @@
-# social_login
+# Signin_APIs
 
 
 To authenticate a login page through GitHub and Google in a Spring Boot application, you can use OAuth 2.0, which is a widely used standard for authentication and authorization. Spring Boot provides support for OAuth 2.0 through Spring Security. Below are the general steps to implement authentication using GitHub and Google in a Spring Boot application:
